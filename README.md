@@ -1,5 +1,5 @@
 # Belajar Membuat Game Untuk Pemula - Pong2D
-Merupakan salah satu dari Kelas Academy Dicoding
+Merupakan salah satu tugas dari Kelas Academy Dicoding
 
 ## Intro
 Berisikan hasil dari latihan dan tugas-tugas
